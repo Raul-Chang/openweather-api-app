@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Raul-Chang/openweather-api-app/static/css/main.3839e6c2.css",
-    "main.js": "/Raul-Chang/openweather-api-app/static/js/main.7982a9e4.js",
-    "static/js/787.c9eb4f8d.chunk.js": "/Raul-Chang/openweather-api-app/static/js/787.c9eb4f8d.chunk.js",
-    "index.html": "/Raul-Chang/openweather-api-app/index.html",
-    "main.3839e6c2.css.map": "/Raul-Chang/openweather-api-app/static/css/main.3839e6c2.css.map",
-    "main.7982a9e4.js.map": "/Raul-Chang/openweather-api-app/static/js/main.7982a9e4.js.map",
-    "787.c9eb4f8d.chunk.js.map": "/Raul-Chang/openweather-api-app/static/js/787.c9eb4f8d.chunk.js.map"
+    "main.css": "/openweather-api-app/static/css/main.3839e6c2.css",
+    "main.js": "/openweather-api-app/static/js/main.b496e423.js",
+    "static/js/787.c9eb4f8d.chunk.js": "/openweather-api-app/static/js/787.c9eb4f8d.chunk.js",
+    "index.html": "/openweather-api-app/index.html",
+    "main.3839e6c2.css.map": "/openweather-api-app/static/css/main.3839e6c2.css.map",
+    "main.b496e423.js.map": "/openweather-api-app/static/js/main.b496e423.js.map",
+    "787.c9eb4f8d.chunk.js.map": "/openweather-api-app/static/js/787.c9eb4f8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3839e6c2.css",
-    "static/js/main.7982a9e4.js"
+    "static/js/main.b496e423.js"
   ]
 }
